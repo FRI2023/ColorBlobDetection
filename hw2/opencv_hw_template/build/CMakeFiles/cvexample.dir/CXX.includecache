@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/u/sbamb/Documents/CS309-Hart/hw2/opencv_hw_template/ColorFilter.cpp
+ColorFilter.h
+/u/sbamb/Documents/CS309-Hart/hw2/opencv_hw_template/ColorFilter.h
+
+/u/sbamb/Documents/CS309-Hart/hw2/opencv_hw_template/ColorFilter.h
+opencv2/opencv.hpp
+-
+string
+-
+vector
+-
+
+/u/sbamb/Documents/CS309-Hart/hw2/opencv_hw_template/ReadAVI.cpp
+ReadAVI.h
+/u/sbamb/Documents/CS309-Hart/hw2/opencv_hw_template/ReadAVI.h
+ColorFilter.h
+/u/sbamb/Documents/CS309-Hart/hw2/opencv_hw_template/ColorFilter.h
+
+/u/sbamb/Documents/CS309-Hart/hw2/opencv_hw_template/ReadAVI.h
+opencv2/opencv.hpp
+-
+
+/u/sbamb/Documents/CS309-Hart/hw2/opencv_hw_template/cvexample.cpp
+ColorFilter.h
+/u/sbamb/Documents/CS309-Hart/hw2/opencv_hw_template/ColorFilter.h
+ReadAVI.h
+/u/sbamb/Documents/CS309-Hart/hw2/opencv_hw_template/ReadAVI.h
+

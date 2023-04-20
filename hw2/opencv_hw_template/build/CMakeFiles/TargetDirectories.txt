@@ -1,0 +1,3 @@
+/u/sbamb/Documents/CS309-Hart/hw2/opencv_hw_template/build/CMakeFiles/rebuild_cache.dir
+/u/sbamb/Documents/CS309-Hart/hw2/opencv_hw_template/build/CMakeFiles/cvexample.dir
+/u/sbamb/Documents/CS309-Hart/hw2/opencv_hw_template/build/CMakeFiles/edit_cache.dir
